@@ -1,3 +1,7 @@
 test only
-modify by foggy
+<<<<<<< e00eb1956973fd4864f4ca2e20a84946d9b28649
+modify by foggy.
 add new node c2
+=======
+modify by foggy.
+>>>>>>> add a comma.
